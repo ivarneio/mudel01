@@ -1,0 +1,15 @@
+{
+  "telefon": "+3720000000",
+  "telefon_kuva": "+372 000 0000",
+  "aadress": "Kehra",
+  "facebook": "https://www.facebook.com/KehraPagar",
+  "instagram": "https://www.instagram.com/kehrapagar/",
+  "riba": {
+    "oranz": "#e25b2a",
+    "sinine": "#2f7fd1",
+    "valge": "#ffffff",
+    "lapa": 50
+  },
+  "tellimus_email": "ivar@neio.ee",
+  "keelatud_paevad": "https://docs.google.com/spreadsheets/d/1OP3UgZqxvm_jGp6ukpKHKmZ9zJABi56ZjqoRYAFmEbw/export?format=csv&gid=275482179"
+}
