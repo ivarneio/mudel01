@@ -1,6 +1,6 @@
 # Kehra Pagar
 
-https://ivarneio.github.io/kehrapagar/
+https://ivarneio.github.io/mudel01/
 
 Uus koduleht asendab WordPressi lehe kehrapagar.ee. See fail on kokkulepe, mitte kood. Siia kirjutame, mis on otsustatud. Muudatus käib siin, enne kui midagi ehitatakse.
 
